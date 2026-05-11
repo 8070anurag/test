@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HelloChannel.Client/HelloChannel.Client.csproj" />
+  <Project Path="HelloChannel.Protocol/HelloChannel.Protocol.csproj" />
+  <Project Path="HelloChannel.Server/HelloChannel.Server.csproj" />
+</Solution>

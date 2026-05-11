@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HelloChannel.Server/1.0.0": {
+        "dependencies": {
+          "HelloChannel.Protocol": "1.0.0"
+        },
+        "runtime": {
+          "HelloChannel.Server.dll": {}
+        }
+      },
+      "HelloChannel.Protocol/1.0.0": {
+        "runtime": {
+          "HelloChannel.Protocol.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloChannel.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloChannel.Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+d:\test\publish\server2\HelloChannel.Server.exe
+d:\test\publish\server2\HelloChannel.Server.dll
+d:\test\publish\server2\HelloChannel.Server.deps.json
+d:\test\publish\server2\HelloChannel.Server.runtimeconfig.json
+d:\test\publish\server2\HelloChannel.Server.pdb
+d:\test\publish\server2\HelloChannel.Protocol.dll
+d:\test\publish\server2\HelloChannel.Protocol.pdb

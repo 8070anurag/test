@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HelloChannel — RDP Dynamic Virtual Channel
 
 A simple "Hello/Hi" message exchange between your **host desktop** (RDP client) and your **VM** (RDP server) using RDP Dynamic Virtual Channels (DVC).
@@ -94,3 +95,6 @@ dotnet run --project HelloChannel.Client -- /unregister
 | Server says "Failed to open channel" | Not in an RDP session, or plugin not registered |
 | Plugin not loading | Close mstsc, re-register, re-connect |
 | Need .NET on VM | Publish self-contained (Step 3 alternative) |
+=======
+# test
+>>>>>>> ed365c49020f7530b66bdff01ef5a76dc2568b37
